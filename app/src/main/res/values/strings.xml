@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="submit">SUBMIT</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="name">Name</string>
+    <string name="welcome_to_android">Welcome to Android</string>
+    <string name="my_first_app">MY FIRST APP</string>
+</resources>
