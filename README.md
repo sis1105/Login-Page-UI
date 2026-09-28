@@ -1,7 +1,4 @@
 # My Project
+
 ## 📸 Screenshot
-![Login Page](img/login_ui.jpeg)
-
-## 🎥 Demo
-
-[Watch the demo video](assets/demo.mp4)
+<img width="427" height="744" alt="login ui" src="https://github.com/user-attachments/assets/b6b6ef1c-9350-4113-9c78-0a55fa2eaf06" />
