@@ -1,6 +1,6 @@
 # My Project
 ## 📸 Screenshot
-![Login Page](img/login ui.jpeg)
+![Login Page](img/login_ui.jpeg)
 
 ## 🎥 Demo
 
